@@ -1,0 +1,12 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\bin\Debug\net8.0\SimpleCalculator.ClassLibrary.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\bin\Debug\net8.0\SimpleCalculator.ClassLibrary.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\bin\Debug\net8.0\SimpleCalculator.ClassLibrary.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\obj\Debug\net8.0\SimpleCalculator.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\obj\Debug\net8.0\SimpleCalculator.ClassLibrary.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\obj\Debug\net8.0\SimpleCalculator.ClassLibrary.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\obj\Debug\net8.0\SimpleCalculator.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\obj\Debug\net8.0\SimpleCalculator.ClassLibrary.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\obj\Debug\net8.0\SimpleCalculator.ClassLibrary.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\obj\Debug\net8.0\refint\SimpleCalculator.ClassLibrary.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\obj\Debug\net8.0\SimpleCalculator.ClassLibrary.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SimpleCalculator.ClassLibrary\obj\Debug\net8.0\ref\SimpleCalculator.ClassLibrary.dll

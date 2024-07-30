@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF0F47DA-5EB8-40E7-B989-820483B25A57}|ConsoleApp1\\ConsoleApp1.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0F47DA-5EB8-40E7-B989-820483B25A57}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{506F0061-386B-4618-AEB8-D750C5C0BFC2}|SimpleCalculator.WinFormsApp\\SimpleCalculator.WinFormsApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\simplecalculator.winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506F0061-386B-4618-AEB8-D750C5C0BFC2}|SimpleCalculator.WinFormsApp\\SimpleCalculator.WinFormsApp.csproj|solutionrelative:simplecalculator.winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506F0061-386B-4618-AEB8-D750C5C0BFC2}|SimpleCalculator.WinFormsApp\\SimpleCalculator.WinFormsApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\simplecalculator.winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{506F0061-386B-4618-AEB8-D750C5C0BFC2}|SimpleCalculator.WinFormsApp\\SimpleCalculator.WinFormsApp.csproj|solutionrelative:simplecalculator.winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SimpleCalculator.WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator.WinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SimpleCalculator.WinFormsApp\\Form1.cs",
+              "RelativeToolTip": "SimpleCalculator.WinFormsApp\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA3wBEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T07:18:04.161Z",
+              "WhenOpened": "2024-07-29T07:29:52.275Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SimpleCalculator.WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator.WinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SimpleCalculator.WinFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "SimpleCalculator.WinFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:17:40.953Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
