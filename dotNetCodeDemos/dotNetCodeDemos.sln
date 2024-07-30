@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalculatorApp", "Calculator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator.WinFormsApp", "SimpleCalculator.WinFormsApp\SimpleCalculator.WinFormsApp.csproj", "{506F0061-386B-4618-AEB8-D750C5C0BFC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODemo1", "OODemo1\OODemo1.csproj", "{3B08B86C-D094-4F0F-B031-30C62FAA9999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainerTraineeApp", "TrainerTraineeApp\TrainerTraineeApp.csproj", "{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{506F0061-386B-4618-AEB8-D750C5C0BFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{506F0061-386B-4618-AEB8-D750C5C0BFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{506F0061-386B-4618-AEB8-D750C5C0BFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B08B86C-D094-4F0F-B031-30C62FAA9999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B08B86C-D094-4F0F-B031-30C62FAA9999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B08B86C-D094-4F0F-B031-30C62FAA9999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B08B86C-D094-4F0F-B031-30C62FAA9999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
