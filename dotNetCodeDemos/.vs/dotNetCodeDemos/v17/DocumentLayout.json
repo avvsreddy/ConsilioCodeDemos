@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}|TrainerTraineeApp\\TrainerTraineeApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\trainertraineeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}|TrainerTraineeApp\\TrainerTraineeApp.csproj|solutionrelative:trainertraineeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}|TrainerTraineeApp\\TrainerTraineeApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\trainertraineeapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}|TrainerTraineeApp\\TrainerTraineeApp.csproj|solutionrelative:trainertraineeapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{CC0CC80F-0DDB-4D3D-85E2-D13F7F9857E6}|IDELab\\IDELab.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\idelab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0CC80F-0DDB-4D3D-85E2-D13F7F9857E6}|IDELab\\IDELab.csproj|solutionrelative:idelab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\TrainerTraineeApp\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "TrainerTraineeApp\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\TrainerTraineeApp\\ClassDiagram1.cd",
-              "RelativeToolTip": "TrainerTraineeApp\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-07-30T07:12:49.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\TrainerTraineeApp\\Program.cs",
-              "RelativeDocumentMoniker": "TrainerTraineeApp\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\TrainerTraineeApp\\Program.cs",
-              "RelativeToolTip": "TrainerTraineeApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\IDELab\\Program.cs",
+              "RelativeDocumentMoniker": "IDELab\\Program.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\IDELab\\Program.cs*",
+              "RelativeToolTip": "IDELab\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T06:45:55.313Z",
+              "WhenOpened": "2024-07-31T09:38:00.838Z",
               "EditorCaption": ""
             }
           ]

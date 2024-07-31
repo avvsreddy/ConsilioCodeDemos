@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\bin\Debug\net8.0\OODemo3.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\bin\Debug\net8.0\OODemo3.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\bin\Debug\net8.0\OODemo3.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\bin\Debug\net8.0\OODemo3.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\bin\Debug\net8.0\OODemo3.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\OODemo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\OODemo3.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\OODemo3.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\OODemo3.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\OODemo3.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\OODemo3.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\refint\OODemo3.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\OODemo3.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\OODemo3.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\OODemo3\obj\Debug\net8.0\ref\OODemo3.dll

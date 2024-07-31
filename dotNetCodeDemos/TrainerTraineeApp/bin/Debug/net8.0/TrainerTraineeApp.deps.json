@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TrainerTraineeApp/1.0.0": {
+        "runtime": {
+          "TrainerTraineeApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainerTraineeApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

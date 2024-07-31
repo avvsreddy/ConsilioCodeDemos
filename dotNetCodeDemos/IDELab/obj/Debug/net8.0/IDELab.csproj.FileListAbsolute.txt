@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\bin\Debug\net8.0\IDELab.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\bin\Debug\net8.0\IDELab.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\bin\Debug\net8.0\IDELab.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\bin\Debug\net8.0\IDELab.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\bin\Debug\net8.0\IDELab.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\IDELab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\IDELab.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\IDELab.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\IDELab.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\IDELab.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\IDELab.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\refint\IDELab.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\IDELab.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\IDELab.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\IDELab\obj\Debug\net8.0\ref\IDELab.dll

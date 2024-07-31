@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\bin\Debug\net8.0\TrainerTraineeApp.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\bin\Debug\net8.0\TrainerTraineeApp.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\bin\Debug\net8.0\TrainerTraineeApp.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\bin\Debug\net8.0\TrainerTraineeApp.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\bin\Debug\net8.0\TrainerTraineeApp.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\TrainerTraineeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\TrainerTraineeApp.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\TrainerTraineeApp.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\TrainerTraineeApp.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\TrainerTraineeApp.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\TrainerTraineeApp.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\refint\TrainerTraineeApp.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\TrainerTraineeApp.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\TrainerTraineeApp.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\TrainerTraineeApp\obj\Debug\net8.0\ref\TrainerTraineeApp.dll

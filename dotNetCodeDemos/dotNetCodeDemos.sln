@@ -5,9 +5,9 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{FF0F47DA-5EB8-40E7-B989-820483B25A57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator.ConsoleApp", "SimpleCalculator.ConsoleApp\SimpleCalculator.ConsoleApp.csproj", "{A603762E-04F6-4DF7-829F-0504570EA34B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCalculator.ConsoleApp", "SimpleCalculator.ConsoleApp\SimpleCalculator.ConsoleApp.csproj", "{A603762E-04F6-4DF7-829F-0504570EA34B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator.ClassLibrary", "SimpleCalculator.ClassLibrary\SimpleCalculator.ClassLibrary.csproj", "{73D8AB1C-D663-4278-8E72-A70C4DE93F7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCalculator.ClassLibrary", "SimpleCalculator.ClassLibrary\SimpleCalculator.ClassLibrary.csproj", "{73D8AB1C-D663-4278-8E72-A70C4DE93F7D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalculatorUI", "CalculatorUI", "{B50B3DF4-0570-4A50-9747-9E36AFC9C0CB}"
 EndProject
@@ -15,11 +15,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalculatorBackend", "Calcul
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalculatorApp", "CalculatorApp", "{1CEC077D-AB30-441C-8345-EF74AE5A4A63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator.WinFormsApp", "SimpleCalculator.WinFormsApp\SimpleCalculator.WinFormsApp.csproj", "{506F0061-386B-4618-AEB8-D750C5C0BFC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCalculator.WinFormsApp", "SimpleCalculator.WinFormsApp\SimpleCalculator.WinFormsApp.csproj", "{506F0061-386B-4618-AEB8-D750C5C0BFC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODemo1", "OODemo1\OODemo1.csproj", "{3B08B86C-D094-4F0F-B031-30C62FAA9999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OODemo1", "OODemo1\OODemo1.csproj", "{3B08B86C-D094-4F0F-B031-30C62FAA9999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainerTraineeApp", "TrainerTraineeApp\TrainerTraineeApp.csproj", "{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainerTraineeApp", "TrainerTraineeApp\TrainerTraineeApp.csproj", "{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OODemo2", "OODemo2\OODemo2.csproj", "{542EFE09-56FF-49A5-B838-A65A0DCB2600}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OODemo3", "OODemo3\OODemo3.csproj", "{81579FB7-249C-4973-8A65-1876011E58DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDELab", "IDELab\IDELab.csproj", "{CC0CC80F-0DDB-4D3D-85E2-D13F7F9857E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A93C4B6-496D-4EEE-9DE6-F54E2D6447D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542EFE09-56FF-49A5-B838-A65A0DCB2600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542EFE09-56FF-49A5-B838-A65A0DCB2600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542EFE09-56FF-49A5-B838-A65A0DCB2600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542EFE09-56FF-49A5-B838-A65A0DCB2600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81579FB7-249C-4973-8A65-1876011E58DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81579FB7-249C-4973-8A65-1876011E58DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81579FB7-249C-4973-8A65-1876011E58DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81579FB7-249C-4973-8A65-1876011E58DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0CC80F-0DDB-4D3D-85E2-D13F7F9857E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0CC80F-0DDB-4D3D-85E2-D13F7F9857E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0CC80F-0DDB-4D3D-85E2-D13F7F9857E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0CC80F-0DDB-4D3D-85E2-D13F7F9857E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
