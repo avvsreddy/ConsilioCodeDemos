@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             IDE ide = new IDE();
+            ide.Languages.Add(new LangC());
+            ide.Languages.Add(new LangCSharp());
             ide.Work();
 
         }
@@ -59,10 +61,13 @@
        
     }
 
-    class Procedural
+    abstract class Procedural : ILanguage
     {
         public string GetUnit() { return "Function"; }
         public string GetParadigm() { return "Procedural"; }
+
+        abstract public string GetName();
+        
     }
 
     class LangCSharp : OOLanguage
@@ -72,15 +77,15 @@
 
     }
 
-    class LangJava : OOLanguage, ILanguage
+    class LangJava : OOLanguage
     {
        
-        public string GetName() { return "Java"; }
+        public override string GetName() { return "Java"; }
     }
 
-    class LangC : Procedural, ILanguage
+    class LangC : Procedural
     {
       
-        public string GetName() { return "C Language"; }
+        public override string GetName() { return "C Language"; }
     }
 }
