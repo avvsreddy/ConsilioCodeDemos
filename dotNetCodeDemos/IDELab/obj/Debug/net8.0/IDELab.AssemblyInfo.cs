@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IDELab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6564a9804514549a2b7a9879aaa555feb2cbf8c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf31cf504f34778d1ce6f729ba65a0b24ec7d0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IDELab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IDELab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
