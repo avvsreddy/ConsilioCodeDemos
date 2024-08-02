@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC0CC80F-0DDB-4D3D-85E2-D13F7F9857E6}|IDELab\\IDELab.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\idelab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC0CC80F-0DDB-4D3D-85E2-D13F7F9857E6}|IDELab\\IDELab.csproj|solutionrelative:idelab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85440FA6-7CE0-4E96-9CEA-692A02E17371}|ExceptionsDemo1\\ExceptionsDemo1.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\exceptionsdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85440FA6-7CE0-4E96-9CEA-692A02E17371}|ExceptionsDemo1\\ExceptionsDemo1.csproj|solutionrelative:exceptionsdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\IDELab\\Program.cs",
-              "RelativeDocumentMoniker": "IDELab\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\IDELab\\Program.cs",
-              "RelativeToolTip": "IDELab\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwFsAAAAAAAAA",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ExceptionsDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionsDemo1\\Program.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ExceptionsDemo1\\Program.cs",
+              "RelativeToolTip": "ExceptionsDemo1\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwDAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:38:00.838Z",
+              "WhenOpened": "2024-08-02T03:11:51.132Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\bin\Debug\net8.0\ExceptionsDemo1.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\bin\Debug\net8.0\ExceptionsDemo1.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\bin\Debug\net8.0\ExceptionsDemo1.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\bin\Debug\net8.0\ExceptionsDemo1.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\bin\Debug\net8.0\ExceptionsDemo1.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\ExceptionsDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\ExceptionsDemo1.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\ExceptionsDemo1.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\ExceptionsDemo1.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\ExceptionsDemo1.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\ExceptionsDemo1.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\refint\ExceptionsDemo1.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\ExceptionsDemo1.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\ExceptionsDemo1.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ExceptionsDemo1\obj\Debug\net8.0\ref\ExceptionsDemo1.dll
