@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85440FA6-7CE0-4E96-9CEA-692A02E17371}|ExceptionsDemo1\\ExceptionsDemo1.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\exceptionsdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85440FA6-7CE0-4E96-9CEA-692A02E17371}|ExceptionsDemo1\\ExceptionsDemo1.csproj|solutionrelative:exceptionsdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD35FE99-FF0B-4949-8AC5-B6ABC78271BB}|DelegatesDemo4\\DelegatesDemo4.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\delegatesdemo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD35FE99-FF0B-4949-8AC5-B6ABC78271BB}|DelegatesDemo4\\DelegatesDemo4.csproj|solutionrelative:delegatesdemo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ExceptionsDemo1\\Program.cs",
-              "RelativeDocumentMoniker": "ExceptionsDemo1\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ExceptionsDemo1\\Program.cs",
-              "RelativeToolTip": "ExceptionsDemo1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAoAAAA",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\DelegatesDemo4\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesDemo4\\Program.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\DelegatesDemo4\\Program.cs",
+              "RelativeToolTip": "DelegatesDemo4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T03:11:51.132Z",
+              "WhenOpened": "2024-08-05T06:54:47.058Z",
               "EditorCaption": ""
             }
           ]

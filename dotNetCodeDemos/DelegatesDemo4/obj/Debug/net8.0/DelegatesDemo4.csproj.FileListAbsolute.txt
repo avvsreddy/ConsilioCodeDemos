@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\bin\Debug\net8.0\DelegatesDemo4.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\bin\Debug\net8.0\DelegatesDemo4.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\bin\Debug\net8.0\DelegatesDemo4.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\bin\Debug\net8.0\DelegatesDemo4.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\bin\Debug\net8.0\DelegatesDemo4.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\DelegatesDemo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\DelegatesDemo4.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\DelegatesDemo4.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\DelegatesDemo4.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\DelegatesDemo4.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\DelegatesDemo4.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\refint\DelegatesDemo4.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\DelegatesDemo4.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\DelegatesDemo4.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\DelegatesDemo4\obj\Debug\net8.0\ref\DelegatesDemo4.dll
