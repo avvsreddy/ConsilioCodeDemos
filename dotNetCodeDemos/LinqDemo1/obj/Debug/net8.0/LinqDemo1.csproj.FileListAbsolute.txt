@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\bin\Debug\net8.0\LinqDemo1.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\bin\Debug\net8.0\LinqDemo1.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\bin\Debug\net8.0\LinqDemo1.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\bin\Debug\net8.0\LinqDemo1.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\bin\Debug\net8.0\LinqDemo1.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\LinqDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\LinqDemo1.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\LinqDemo1.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\LinqDemo1.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\LinqDemo1.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\LinqDemo1.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\refint\LinqDemo1.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\LinqDemo1.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\LinqDemo1.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LinqDemo1\obj\Debug\net8.0\ref\LinqDemo1.dll

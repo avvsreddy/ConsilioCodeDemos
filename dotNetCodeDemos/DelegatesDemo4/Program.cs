@@ -9,9 +9,10 @@ namespace DelegatesDemo4
             Account acc1 = new Account();
             acc1.notify += Notification.SendEmail;//subscription
             acc1.notify += Notification.SendSMS;
-            acc1.notify -= Notification.SendSMS;
+            //acc1.notify -= Notification.SendSMS;
             acc1.notify += Notification.SendWhatsApp;
-            acc1.Deposit(5000);
+            //acc1.notify("Your account has been deposited $9999999999999999999");
+            //acc1.Deposit(5000);
             Console.WriteLine(acc1.Balance);
             //acc1.Withdraw(1000);
             Console.WriteLine(acc1.Balance);
@@ -22,7 +23,7 @@ namespace DelegatesDemo4
     class Account
     {
         public int Balance { get; private set; }
-        public NotifyDelegate notify = null;// new NotifyDelegate(Notification.SendSMS);
+        public event NotifyDelegate notify = null;// new NotifyDelegate(Notification.SendSMS);
        
         public void Deposit(int amount)
         {

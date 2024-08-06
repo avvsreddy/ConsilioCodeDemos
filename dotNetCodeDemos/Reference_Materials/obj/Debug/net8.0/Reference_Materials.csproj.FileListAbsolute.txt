@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\bin\Debug\net8.0\Reference_Materials.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\bin\Debug\net8.0\Reference_Materials.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\bin\Debug\net8.0\Reference_Materials.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\bin\Debug\net8.0\Reference_Materials.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\bin\Debug\net8.0\Reference_Materials.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\Reference_Materials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\Reference_Materials.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\Reference_Materials.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\Reference_Materials.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\Reference_Materials.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\Reference_Materials.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\refint\Reference_Materials.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\Reference_Materials.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\Reference_Materials.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\Reference_Materials\obj\Debug\net8.0\ref\Reference_Materials.dll

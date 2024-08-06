@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\bin\Debug\net8.0\MTDemo2.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\bin\Debug\net8.0\MTDemo2.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\bin\Debug\net8.0\MTDemo2.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\bin\Debug\net8.0\MTDemo2.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\bin\Debug\net8.0\MTDemo2.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\MTDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\MTDemo2.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\MTDemo2.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\MTDemo2.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\MTDemo2.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\MTDemo2.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\refint\MTDemo2.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\MTDemo2.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\MTDemo2.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\MTDemo2\obj\Debug\net8.0\ref\MTDemo2.dll

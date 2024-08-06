@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\bin\Debug\net8.0\LanguageEnhancements.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\bin\Debug\net8.0\LanguageEnhancements.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\bin\Debug\net8.0\LanguageEnhancements.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\bin\Debug\net8.0\LanguageEnhancements.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\bin\Debug\net8.0\LanguageEnhancements.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\LanguageEnhancements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\LanguageEnhancements.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\LanguageEnhancements.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\LanguageEnhancements.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\LanguageEnhancements.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\LanguageEnhancements.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\refint\LanguageEnhancements.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\LanguageEnhancements.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\LanguageEnhancements.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\LanguageEnhancements\obj\Debug\net8.0\ref\LanguageEnhancements.dll
