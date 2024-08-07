@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
+using System.Data.Common;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Reflection;
@@ -13,18 +16,65 @@ namespace ContactManagement.DataAccess
     {
         public void Create(Contact contact)
         {
-            SqlConnection conn = new SqlConnection();
-            conn.ConnectionString = "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=MyContactsDB;Integrated Security=True";
-            conn.Open();
+            string dbProvider = ConfigurationManager.ConnectionStrings["default"].ProviderName;
+            
+           
+            DbProviderFactories.RegisterFactory(dbProvider,  SqlClientFactory.Instance);
+           
+            DbProviderFactory factory = DbProviderFactories.GetFactory(dbProvider);
 
-            string sqlInsert = $"insert into contacts values ('{contact.Name}','{contact.Mobile}','{contact.Email}','{contact.Location}')";
-            SqlCommand cmd = new SqlCommand();
+            IDbConnection conn = factory.CreateConnection();
+            string connStr = ConfigurationManager.ConnectionStrings["default"].ConnectionString;
+            conn.ConnectionString = connStr;
+           
+            // sql injection
+            //string sqlInsert = $"insert into contacts values ('{contact.Name}','{contact.Mobile}','{contact.Email}','{contact.Location}')";
+
+            string sqlInsert = $"insert into contacts values (@name,@mobile,@email,@loc)";
+
+           
+
+            IDbCommand cmd = conn.CreateCommand();
+            IDbDataParameter p1 = cmd.CreateParameter();
+            p1.ParameterName = "@name";
+            p1.Value = contact.Name;
+            cmd.Parameters.Add(p1);
+
+            IDbDataParameter p2 = cmd.CreateParameter();
+            p2.ParameterName = "@mobile";
+            p2.Value = contact.Mobile;
+            cmd.Parameters.Add(p2);
+
+            IDbDataParameter p3= cmd.CreateParameter();
+            p3.ParameterName = "@email";
+            p3.Value = contact.Email;
+            cmd.Parameters.Add(p3);
+
+
+            IDbDataParameter p4 = cmd.CreateParameter();
+            p4.ParameterName = "@loc";
+            p4.Value = contact.Location;
+            cmd.Parameters.Add(p4);
+
+
+            //cmd.Parameters.AddWithValue("@mobile", contact.Mobile);
+            //cmd.Parameters.AddWithValue("@email",contact.Email);
+            //cmd.Parameters.AddWithValue("@loc", contact.Location);
+
             cmd.CommandText = sqlInsert;
             cmd.Connection = conn;
-            cmd.ExecuteNonQuery();
-            //Console.WriteLine("Contact inserted");
-            // logout - close the connection
-            conn.Close();
+            try
+            {
+                conn.Open();
+                cmd.ExecuteNonQuery();
+                //Console.WriteLine("Contact inserted");
+                // logout - close the connection
+            }
+            //catch(Exception ex)
+            finally
+            {
+                conn.Close();
+            }
             //Console.WriteLine("db connection closed");
         }
 
