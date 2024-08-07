@@ -1,0 +1,12 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\bin\Debug\net8.0\SuperCalculator.Business.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\bin\Debug\net8.0\SuperCalculator.Business.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\bin\Debug\net8.0\SuperCalculator.Business.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\obj\Debug\net8.0\SuperCalculator.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\obj\Debug\net8.0\SuperCalculator.Business.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\obj\Debug\net8.0\SuperCalculator.Business.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\obj\Debug\net8.0\SuperCalculator.Business.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\obj\Debug\net8.0\SuperCalculator.Business.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\obj\Debug\net8.0\SuperCalculator.Business.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\obj\Debug\net8.0\refint\SuperCalculator.Business.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\obj\Debug\net8.0\SuperCalculator.Business.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\SuperCalculator.Business\obj\Debug\net8.0\ref\SuperCalculator.Business.dll
