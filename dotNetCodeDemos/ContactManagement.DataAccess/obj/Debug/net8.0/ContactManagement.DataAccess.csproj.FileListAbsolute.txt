@@ -1,0 +1,13 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\bin\Debug\net8.0\ContactManagement.DataAccess.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\bin\Debug\net8.0\ContactManagement.DataAccess.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\bin\Debug\net8.0\ContactManagement.DataAccess.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\ContactManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\ContactManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\ContactManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\ContactManagement.DataAccess.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\ContactManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\ContactManagement.DataAccess.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\ContactManagement.DataAccess.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\refint\ContactManagement.DataAccess.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\ContactManagement.DataAccess.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ContactManagement.DataAccess\obj\Debug\net8.0\ref\ContactManagement.DataAccess.dll

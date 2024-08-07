@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5594E28-7AF9-4E92-BE33-8EF21D13FE5F}|SuperCalculator.Business.UnitTest\\SuperCalculator.Business.UnitTest.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\supercalculator.business.unittest\\calculatorunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5594E28-7AF9-4E92-BE33-8EF21D13FE5F}|SuperCalculator.Business.UnitTest\\SuperCalculator.Business.UnitTest.csproj|solutionrelative:supercalculator.business.unittest\\calculatorunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{202373B6-D52B-4712-873F-0458E4A9C409}|ContactsManagementApp\\ContactsManagementApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\contactsmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202373B6-D52B-4712-873F-0458E4A9C409}|ContactsManagementApp\\ContactsManagementApp.csproj|solutionrelative:contactsmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3FDB034-3C8D-419E-9519-2ECD7A810072}|SuperCalculator.Business\\SuperCalculator.Business.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\supercalculator.business\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FDB034-3C8D-419E-9519-2ECD7A810072}|SuperCalculator.Business\\SuperCalculator.Business.csproj|solutionrelative:supercalculator.business\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F63D6F1-0D77-4726-A80F-C7AA20A56399}|ContactManagement.DataAccess\\ContactManagement.DataAccess.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\contactmanagement.dataaccess\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F63D6F1-0D77-4726-A80F-C7AA20A56399}|ContactManagement.DataAccess\\ContactManagement.DataAccess.csproj|solutionrelative:contactmanagement.dataaccess\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3FDB034-3C8D-419E-9519-2ECD7A810072}|SuperCalculator.Business\\SuperCalculator.Business.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\supercalculator.business\\nonevennumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FDB034-3C8D-419E-9519-2ECD7A810072}|SuperCalculator.Business\\SuperCalculator.Business.csproj|solutionrelative:supercalculator.business\\nonevennumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F63D6F1-0D77-4726-A80F-C7AA20A56399}|ContactManagement.DataAccess\\ContactManagement.DataAccess.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\contactmanagement.dataaccess\\contactsdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F63D6F1-0D77-4726-A80F-C7AA20A56399}|ContactManagement.DataAccess\\ContactManagement.DataAccess.csproj|solutionrelative:contactmanagement.dataaccess\\contactsdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3FDB034-3C8D-419E-9519-2ECD7A810072}|SuperCalculator.Business\\SuperCalculator.Business.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\supercalculator.business\\nonzeronumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FDB034-3C8D-419E-9519-2ECD7A810072}|SuperCalculator.Business\\SuperCalculator.Business.csproj|solutionrelative:supercalculator.business\\nonzeronumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F63D6F1-0D77-4726-A80F-C7AA20A56399}|ContactManagement.DataAccess\\ContactManagement.DataAccess.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\contactmanagement.dataaccess\\icontactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F63D6F1-0D77-4726-A80F-C7AA20A56399}|ContactManagement.DataAccess\\ContactManagement.DataAccess.csproj|solutionrelative:contactmanagement.dataaccess\\icontactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NonEvenNumberException.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SuperCalculator.Business\\NonEvenNumberException.cs",
-              "RelativeDocumentMoniker": "SuperCalculator.Business\\NonEvenNumberException.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SuperCalculator.Business\\NonEvenNumberException.cs",
-              "RelativeToolTip": "SuperCalculator.Business\\NonEvenNumberException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ContactsManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsManagementApp\\Program.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ContactsManagementApp\\Program.cs*",
+              "RelativeToolTip": "ContactsManagementApp\\Program.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T04:03:35.574Z",
+              "WhenOpened": "2024-08-07T07:21:17.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NonZeroNumberException.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SuperCalculator.Business\\NonZeroNumberException.cs",
-              "RelativeDocumentMoniker": "SuperCalculator.Business\\NonZeroNumberException.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SuperCalculator.Business\\NonZeroNumberException.cs",
-              "RelativeToolTip": "SuperCalculator.Business\\NonZeroNumberException.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "ContactsDbRepository.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ContactManagement.DataAccess\\ContactsDbRepository.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DataAccess\\ContactsDbRepository.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ContactManagement.DataAccess\\ContactsDbRepository.cs",
+              "RelativeToolTip": "ContactManagement.DataAccess\\ContactsDbRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T03:49:51.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CalculatorUnitTest.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SuperCalculator.Business.UnitTest\\CalculatorUnitTest.cs",
-              "RelativeDocumentMoniker": "SuperCalculator.Business.UnitTest\\CalculatorUnitTest.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SuperCalculator.Business.UnitTest\\CalculatorUnitTest.cs",
-              "RelativeToolTip": "SuperCalculator.Business.UnitTest\\CalculatorUnitTest.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T03:23:22.08Z",
+              "WhenOpened": "2024-08-07T07:18:21.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SuperCalculator.Business\\Calculator.cs",
-              "RelativeDocumentMoniker": "SuperCalculator.Business\\Calculator.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\SuperCalculator.Business\\Calculator.cs",
-              "RelativeToolTip": "SuperCalculator.Business\\Calculator.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAywBQAAAAJAAAA",
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ContactManagement.DataAccess\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DataAccess\\Contact.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ContactManagement.DataAccess\\Contact.cs",
+              "RelativeToolTip": "ContactManagement.DataAccess\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T03:14:28.943Z",
+              "WhenOpened": "2024-08-07T07:11:31.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContactsRepository.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ContactManagement.DataAccess\\IContactsRepository.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DataAccess\\IContactsRepository.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ContactManagement.DataAccess\\IContactsRepository.cs",
+              "RelativeToolTip": "ContactManagement.DataAccess\\IContactsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:08:14.163Z",
               "EditorCaption": ""
             }
           ]

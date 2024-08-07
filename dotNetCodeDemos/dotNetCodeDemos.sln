@@ -61,15 +61,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqDemo2", "LinqDemo2\Linq
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqDemo3", "LinqDemo3\LinqDemo3.csproj", "{5C03AAF8-7826-4F6B-B715-CFE7494D9F7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo4", "LinqDemo4\LinqDemo4.csproj", "{04EB7EC0-CCE5-4C09-A28C-2C5B6671F164}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqDemo4", "LinqDemo4\LinqDemo4.csproj", "{04EB7EC0-CCE5-4C09-A28C-2C5B6671F164}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToXmlDemo", "LinqToXmlDemo\LinqToXmlDemo.csproj", "{E2362A4B-2975-41E7-BBEC-1FE55C474591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqToXmlDemo", "LinqToXmlDemo\LinqToXmlDemo.csproj", "{E2362A4B-2975-41E7-BBEC-1FE55C474591}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multi Threading Demos", "Multi Threading Demos", "{970A7302-4796-4187-86F9-3DC419072279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTDemo1", "MTDemo1\MTDemo1.csproj", "{FAD51878-A263-4EE3-A8E1-E20C4FEB1732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTDemo1", "MTDemo1\MTDemo1.csproj", "{FAD51878-A263-4EE3-A8E1-E20C4FEB1732}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTDemo2", "MTDemo2\MTDemo2.csproj", "{1282F2E0-A195-4557-8D00-3FA630055E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTDemo2", "MTDemo2\MTDemo2.csproj", "{1282F2E0-A195-4557-8D00-3FA630055E5C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Testing Demo", "Unit Testing Demo", "{DE83B42C-65DD-48D8-8109-A4A6D38E97FB}"
 EndProject
@@ -77,9 +77,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Code", "Business C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Testing Code", "Unit Testing Code", "{A3CF9965-FF79-4318-97A2-7494A4546B38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCalculator.Business", "SuperCalculator.Business\SuperCalculator.Business.csproj", "{E3FDB034-3C8D-419E-9519-2ECD7A810072}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperCalculator.Business", "SuperCalculator.Business\SuperCalculator.Business.csproj", "{E3FDB034-3C8D-419E-9519-2ECD7A810072}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCalculator.Business.UnitTest", "SuperCalculator.Business.UnitTest\SuperCalculator.Business.UnitTest.csproj", "{E5594E28-7AF9-4E92-BE33-8EF21D13FE5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperCalculator.Business.UnitTest", "SuperCalculator.Business.UnitTest\SuperCalculator.Business.UnitTest.csproj", "{E5594E28-7AF9-4E92-BE33-8EF21D13FE5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "File IO", "File IO", "{4BC23581-F9C5-4D0C-9E51-8A7CA82C23ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIODemo1", "FileIODemo1\FileIODemo1.csproj", "{D99A1282-422F-436F-99B4-5AA97CEBFF76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADO.Net Demos", "ADO.Net Demos", "{7C8F4F0F-0844-4C94-82F7-4AC3B01B6A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsManagementApp", "ContactsManagementApp\ContactsManagementApp.csproj", "{202373B6-D52B-4712-873F-0458E4A9C409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagement.DataAccess", "ContactManagement.DataAccess\ContactManagement.DataAccess.csproj", "{7F63D6F1-0D77-4726-A80F-C7AA20A56399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -199,6 +209,18 @@ Global
 		{E5594E28-7AF9-4E92-BE33-8EF21D13FE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5594E28-7AF9-4E92-BE33-8EF21D13FE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5594E28-7AF9-4E92-BE33-8EF21D13FE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99A1282-422F-436F-99B4-5AA97CEBFF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99A1282-422F-436F-99B4-5AA97CEBFF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99A1282-422F-436F-99B4-5AA97CEBFF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99A1282-422F-436F-99B4-5AA97CEBFF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202373B6-D52B-4712-873F-0458E4A9C409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202373B6-D52B-4712-873F-0458E4A9C409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202373B6-D52B-4712-873F-0458E4A9C409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202373B6-D52B-4712-873F-0458E4A9C409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F63D6F1-0D77-4726-A80F-C7AA20A56399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F63D6F1-0D77-4726-A80F-C7AA20A56399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F63D6F1-0D77-4726-A80F-C7AA20A56399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F63D6F1-0D77-4726-A80F-C7AA20A56399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -233,6 +255,9 @@ Global
 		{A3CF9965-FF79-4318-97A2-7494A4546B38} = {DE83B42C-65DD-48D8-8109-A4A6D38E97FB}
 		{E3FDB034-3C8D-419E-9519-2ECD7A810072} = {93649F56-9D17-4BCE-9FAF-04E562497E7D}
 		{E5594E28-7AF9-4E92-BE33-8EF21D13FE5F} = {A3CF9965-FF79-4318-97A2-7494A4546B38}
+		{D99A1282-422F-436F-99B4-5AA97CEBFF76} = {4BC23581-F9C5-4D0C-9E51-8A7CA82C23ED}
+		{202373B6-D52B-4712-873F-0458E4A9C409} = {7C8F4F0F-0844-4C94-82F7-4AC3B01B6A74}
+		{7F63D6F1-0D77-4726-A80F-C7AA20A56399} = {7C8F4F0F-0844-4C94-82F7-4AC3B01B6A74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9521F0F6-029C-4C72-9EFF-93B903BA7146}

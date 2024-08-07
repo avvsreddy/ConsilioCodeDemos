@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperCalculator.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c43590a6de11ad0a0c664d80f7330409be645da6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70eed559cf56fd3b57ca48f1c01ad3ced8eae875")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperCalculator.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperCalculator.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
