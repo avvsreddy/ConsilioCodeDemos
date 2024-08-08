@@ -130,7 +130,39 @@ namespace ContactManagement.DataAccess
 
         public List<Contact> GetAll()
         {
-            throw new NotImplementedException();
+            string dbProvider = ConfigurationManager.ConnectionStrings["default"].ProviderName;
+
+
+            DbProviderFactories.RegisterFactory(dbProvider, SqlClientFactory.Instance);
+
+            DbProviderFactory factory = DbProviderFactories.GetFactory(dbProvider);
+
+            IDbConnection conn = factory.CreateConnection();
+            string connStr = ConfigurationManager.ConnectionStrings["default"].ConnectionString;
+            conn.ConnectionString = connStr;
+
+
+            string sqlSelect = "select * from contacts";
+            IDbCommand cmd = conn.CreateCommand(); 
+            cmd.CommandText = sqlSelect;
+            cmd.Connection = conn;
+
+            IDataReader reader = cmd.ExecuteReader();
+            List<Contact> contactsList = new List<Contact>();
+            while (reader.Read())
+            {
+                Contact contact = new Contact();
+                contact.Id = (int)reader[0];
+                contact.Name = reader[1].ToString();
+                contact.Mobile = reader.GetString(2);
+                contact.Email = reader["Email"].ToString();
+                contact.Location = reader.GetString(4);
+                contactsList.Add(contact);
+
+            }
+            conn.Close();
+            return contactsList;
+
         }
 
         public Contact GetById(int id)
