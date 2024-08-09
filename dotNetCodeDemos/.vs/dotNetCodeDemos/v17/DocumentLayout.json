@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{73DA5297-E53C-414E-B315-3611C460E90D}|DbTransactionsDemo\\DbTransactionsDemo.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\dbtransactionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73DA5297-E53C-414E-B315-3611C460E90D}|DbTransactionsDemo\\DbTransactionsDemo.csproj|solutionrelative:dbtransactionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/MyContactsDB/True/SqlTable/dbo.Accounts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +25,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Accounts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/MyContactsDB/True/SqlTable/dbo.Accounts.sql",
+              "ToolTip": "dbo.Accounts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
+              "WhenOpened": "2024-08-09T04:03:08.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\DbTransactionsDemo\\Program.cs",
               "RelativeDocumentMoniker": "DbTransactionsDemo\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\DbTransactionsDemo\\Program.cs",
-              "RelativeToolTip": "DbTransactionsDemo\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAuwCoAAAAAAAAA",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\DbTransactionsDemo\\Program.cs*",
+              "RelativeToolTip": "DbTransactionsDemo\\Program.cs*",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAC4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T03:51:10.141Z",
               "EditorCaption": ""
