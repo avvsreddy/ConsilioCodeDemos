@@ -40,18 +40,25 @@ namespace SuperCalculator.Business.UnitTest
         }
 
         [TestMethod]
+        [DataRow(1,0)]
+        [DataRow(0,0)]
+        [DataRow(-1,0)]
+        [DataRow(-1,-1)]
         [ExpectedException(typeof(NonZeroNumberException))]
-        public void Sum_WithZeroOrNegativeInput_ShouldThrowsExp()
+        public void Sum_WithZeroOrNegativeInput_ShouldThrowsExp(int a, int b)
         {
             //Calculator target = new Calculator();
-            target.Sum(0, -1);
+            target.Sum(a,b);
             //
         }
         [TestMethod, ExpectedException(typeof(NonEvenNumberException))]
-        public void Sum_WithNonEvenInput_ThrowsExp()
+        [DataRow(1,2)]
+        [DataRow(2, 1)]
+        [DataRow(1, 1)]
+        public void Sum_WithNonEvenInput_ThrowsExp(int a, int b)
         {
             //Calculator target = new Calculator();
-            target.Sum(3,7);
+            target.Sum(a,b);
         }
     }
 }

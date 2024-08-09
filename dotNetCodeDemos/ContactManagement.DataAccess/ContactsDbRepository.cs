@@ -26,13 +26,13 @@ namespace ContactManagement.DataAccess
             IDbConnection conn = factory.CreateConnection();
             string connStr = ConfigurationManager.ConnectionStrings["default"].ConnectionString;
             conn.ConnectionString = connStr;
-           
+
             // sql injection
             //string sqlInsert = $"insert into contacts values ('{contact.Name}','{contact.Mobile}','{contact.Email}','{contact.Location}')";
 
-            string sqlInsert = $"insert into contacts values (@name,@mobile,@email,@loc)";
+            //string sqlInsert = $"insert into contacts values (@name,@mobile,@email,@loc)";
 
-           
+            string sqlInsertSp = "sp_InsertContact";
 
             IDbCommand cmd = conn.CreateCommand();
             IDbDataParameter p1 = cmd.CreateParameter();
@@ -61,7 +61,8 @@ namespace ContactManagement.DataAccess
             //cmd.Parameters.AddWithValue("@email",contact.Email);
             //cmd.Parameters.AddWithValue("@loc", contact.Location);
 
-            cmd.CommandText = sqlInsert;
+            cmd.CommandText = sqlInsertSp;
+            cmd.CommandType = CommandType.StoredProcedure;
             cmd.Connection = conn;
             try
             {
@@ -94,7 +95,7 @@ namespace ContactManagement.DataAccess
             // sql injection
             //string sqlInsert = $"insert into contacts values ('{contact.Name}','{contact.Mobile}','{contact.Email}','{contact.Location}')";
 
-            string sqlDelete = $"delete from contacts where id = @id";
+            //string sqlDelete = $"delete from contacts where id = @id";
 
 
 
@@ -111,7 +112,8 @@ namespace ContactManagement.DataAccess
             //cmd.Parameters.AddWithValue("@email",contact.Email);
             //cmd.Parameters.AddWithValue("@loc", contact.Location);
 
-            cmd.CommandText = sqlDelete;
+            cmd.CommandText = "sp_DeleteContact";
+            cmd.CommandType= CommandType.StoredProcedure;
             cmd.Connection = conn;
             try
             {
@@ -142,9 +144,10 @@ namespace ContactManagement.DataAccess
             conn.ConnectionString = connStr;
 
 
-            string sqlSelect = "select * from contacts";
+            //string sqlSelect = "select * from contacts";
             IDbCommand cmd = conn.CreateCommand(); 
-            cmd.CommandText = sqlSelect;
+            cmd.CommandText = "sp_SelectAllContacts";
+            cmd.CommandType = CommandType.StoredProcedure;
             cmd.Connection = conn;
 
             IDataReader reader = cmd.ExecuteReader();
