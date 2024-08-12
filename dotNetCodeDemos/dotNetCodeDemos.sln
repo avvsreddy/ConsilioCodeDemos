@@ -93,6 +93,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManagement.DataAcces
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbTransactionsDemo", "DbTransactionsDemo\DbTransactionsDemo.csproj", "{73DA5297-E53C-414E-B315-3611C460E90D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EF Demos", "EF Demos", "{5E666162-836B-4A3F-980A-85428FA2BAF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsCatalogApp", "ProductsCatalogApp\ProductsCatalogApp.csproj", "{F95B29E2-B0D0-4B83-B95D-D782C35A8956}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +231,10 @@ Global
 		{73DA5297-E53C-414E-B315-3611C460E90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73DA5297-E53C-414E-B315-3611C460E90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73DA5297-E53C-414E-B315-3611C460E90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95B29E2-B0D0-4B83-B95D-D782C35A8956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95B29E2-B0D0-4B83-B95D-D782C35A8956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95B29E2-B0D0-4B83-B95D-D782C35A8956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95B29E2-B0D0-4B83-B95D-D782C35A8956}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -265,6 +273,7 @@ Global
 		{202373B6-D52B-4712-873F-0458E4A9C409} = {7C8F4F0F-0844-4C94-82F7-4AC3B01B6A74}
 		{7F63D6F1-0D77-4726-A80F-C7AA20A56399} = {7C8F4F0F-0844-4C94-82F7-4AC3B01B6A74}
 		{73DA5297-E53C-414E-B315-3611C460E90D} = {7C8F4F0F-0844-4C94-82F7-4AC3B01B6A74}
+		{F95B29E2-B0D0-4B83-B95D-D782C35A8956} = {5E666162-836B-4A3F-980A-85428FA2BAF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9521F0F6-029C-4C72-9EFF-93B903BA7146}

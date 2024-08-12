@@ -4,19 +4,23 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Memory Management in .Net Apps");
-
-            M1();
-            M1();
-            M1();
-
-
         }
+    }
 
-        public static void M1()
-        {
-            int a = 10;
-            string str = "Hello world!";
-        }
+    public class Test
+    {
+
+    }
+
+    public interface ITest
+    {
+        public int TestId { get; set; }
+        public Test Test { get; set; }
+    }
+
+    public class ClsTest : ITest
+    {
+        public int TestId { get; set; }
+        public Test Test { get; set; }
     }
 }
