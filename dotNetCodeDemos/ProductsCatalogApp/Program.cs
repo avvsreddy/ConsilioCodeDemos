@@ -9,21 +9,47 @@ namespace ProductsCatalogApp
     {
         static void Main(string[] args)
         {
-            // All all products name, price and catagory name then display
-            
-            // Approach 1
-            ProductsDbContext db = new ProductsDbContext();
-            var products = from p in db.Products//.Include(p=>p.Catagory)
-                           select p;
 
-            Console.WriteLine("Name\tPrice\tCatagory");
-            foreach (var product in products)
-            {
-                Console.WriteLine($"{product.Name}\t{product.Price}\t{product.Catagory.CatagoryName}");
+
+            // get all products for display
+            ProductsDbContext db = new ProductsDbContext();
+            var allProducts = db.Products.AsNoTracking().ToList();
+
+            foreach (var product in allProducts) {
+                Console.WriteLine(product.Name);
             }
 
 
+
+            var productToUpate = GetProductById(1);
+            productToUpate.Price = 100000;
+
+            UpdateProduct(productToUpate);
+            Console.WriteLine("Updated...");
         }
+
+        public static Product GetProductById(int id)
+        {
+            ProductsDbContext db = new ProductsDbContext();
+            return db.Products.Find(id);
+        }
+
+        public static void UpdateProduct(Product product) 
+        {
+            ProductsDbContext db = new ProductsDbContext();
+            //var oldProduct = db.Products.Find(product.ProductId);
+            //?????
+            //oldProduct.Price = product.Price;
+            //oldProduct.Name = product.Name;
+            //db.Entry(product).State = EntityState.Modified;
+
+            //db.Products.Remove(product);
+
+            db.Products.Update(product);
+            db.SaveChanges();
+        }
+
+
 
         private static void NewProductWithCatagory()
         {

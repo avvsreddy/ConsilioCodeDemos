@@ -24,6 +24,13 @@ namespace ProductsCatalogApp.DataAccess
             //[Key]
             // Fluent API
             //modelBuilder.Entity<Product>().HasKey(e => e.ItemId);
+
+            //modelBuilder.Entity<Person>().UseTphMappingStrategy();
+            //modelBuilder.Entity<Person>().UseTptMappingStrategy();
+            modelBuilder.Entity<Person>().UseTpcMappingStrategy();
+
+           
+
         }
 
 
@@ -32,6 +39,8 @@ namespace ProductsCatalogApp.DataAccess
         public DbSet<Product> Products { get; set; }
         public DbSet<Catagory> Catagories { get; set; }
 
-
+        public DbSet<Supplier> Suppliers { get; set; }
+        public DbSet<Person> People { get; set; }
+        public DbSet<Customer> Customers { get; set; }
     }
 }
