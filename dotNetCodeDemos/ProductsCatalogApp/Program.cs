@@ -13,19 +13,24 @@ namespace ProductsCatalogApp
 
             // get all products for display
             ProductsDbContext db = new ProductsDbContext();
-            var allProducts = db.Products.AsNoTracking().ToList();
-
-            foreach (var product in allProducts) {
-                Console.WriteLine(product.Name);
-            }
 
 
+            var result = db.Products.Include("Catagory").Include("Suppliers").AsSplitQuery().ToList();
 
-            var productToUpate = GetProductById(1);
-            productToUpate.Price = 100000;
 
-            UpdateProduct(productToUpate);
-            Console.WriteLine("Updated...");
+            //var allProducts = db.Products.AsNoTracking().ToList();
+
+            //foreach (var product in allProducts) {
+            //    Console.WriteLine(product.Name);
+            //}
+
+
+
+            //var productToUpate = GetProductById(1);
+            //productToUpate.Price = 100000;
+
+            //UpdateProduct(productToUpate);
+            //Console.WriteLine("Updated...");
         }
 
         public static Product GetProductById(int id)
