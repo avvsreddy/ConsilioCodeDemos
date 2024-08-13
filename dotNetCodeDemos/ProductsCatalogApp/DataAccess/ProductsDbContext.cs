@@ -15,7 +15,7 @@ namespace ProductsCatalogApp.DataAccess
         {
             optionsBuilder.LogTo(Console.WriteLine,Microsoft.Extensions.Logging.LogLevel.Information);
 
-            optionsBuilder.UseSqlServer("Data Source=(localdb)\\mssqllocaldb;Initial Catalog=MyProductsDb2024;Integrated Security=True;");
+            optionsBuilder.UseSqlServer("Data Source=(localdb)\\mssqllocaldb;Initial Catalog=MyProductsDb2024;Integrated Security=True;MultipleActiveResultSets=True").UseLazyLoadingProxies();
         }
 
 
@@ -30,6 +30,7 @@ namespace ProductsCatalogApp.DataAccess
         // map to tables
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<Catagory> Catagories { get; set; }
 
 
     }

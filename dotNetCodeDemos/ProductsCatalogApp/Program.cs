@@ -1,5 +1,7 @@
-﻿using ProductsCatalogApp.DataAccess;
+﻿using Microsoft.EntityFrameworkCore;
+using ProductsCatalogApp.DataAccess;
 using ProductsCatalogApp.Entities;
+using System.ComponentModel.DataAnnotations;
 
 namespace ProductsCatalogApp
 {
@@ -7,8 +9,53 @@ namespace ProductsCatalogApp
     {
         static void Main(string[] args)
         {
-            // Manage Products (CRUD)
-            Read();
+            // All all products name, price and catagory name then display
+            
+            // Approach 1
+            ProductsDbContext db = new ProductsDbContext();
+            var products = from p in db.Products//.Include(p=>p.Catagory)
+                           select p;
+
+            Console.WriteLine("Name\tPrice\tCatagory");
+            foreach (var product in products)
+            {
+                Console.WriteLine($"{product.Name}\t{product.Price}\t{product.Catagory.CatagoryName}");
+            }
+
+
+        }
+
+        private static void NewProductWithCatagory()
+        {
+            // Add new product to an existing catagory
+            // get the existing catagory
+            ProductsDbContext db = new ProductsDbContext();
+            var c = db.Catagories.Find(1);
+            var p = new Product { Brand = "Apple", Catagory = c, Country = "US", Name = "IMac Pro", Price = 120000 };
+            db.Products.Add(p);
+            db.SaveChanges();
+        }
+
+        private static void NewCatagoryNewProductAdd()
+        {
+            // create new catagory with new product and save
+            var c = new Catagory
+            {
+                CatagoryName = "Laptops"
+            };
+            var p = new Product
+            {
+                Name = "Dell XPS 13",
+                Brand = "DELL",
+                Catagory = c,
+                Country = "India",
+                Price = 75000
+            };
+            // save
+            ProductsDbContext db = new ProductsDbContext();
+            db.Products.Add(p);
+            db.Catagories.Add(c); // its optional
+            db.SaveChanges();
         }
 
         private static void Update()

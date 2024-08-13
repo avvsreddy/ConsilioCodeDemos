@@ -13,16 +13,22 @@ namespace ProductsCatalogApp.Entities
     public class Product // POCO
     {
         //[Key]
-        public int ItemId { get; set; } // Primary Key
+        public int ProductId { get; set; } // Primary Key
         //[Required]
-        //[MaxLength(100)]
+        //[MaxLength(10)]
         public string Name { get; set; }
         //[Column("Rate")]
         //[Range(1000,100000)]
         public int Price { get; set; }
-
+      
         public string Brand { get; set; }
         public string Country { get; set; }
+        public virtual Catagory Catagory { get; set; } 
 
+    }
+    public class Catagory
+    {
+        public int CatagoryId { get; set; }
+        public string CatagoryName { get; set; }
     }
 }
