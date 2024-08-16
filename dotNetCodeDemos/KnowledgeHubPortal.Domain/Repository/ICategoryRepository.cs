@@ -14,5 +14,7 @@ namespace KnowledgeHubPortal.Domain.Repository
 
         List<Category> GetAll();
         Category GetById(int id);
+
+        void Delete(int id);
     }
 }

@@ -59,5 +59,12 @@ namespace KnowledgeHubPortal.WebApp.Controllers
             repo.Update(category);
             return RedirectToAction("Index");
         }
+
+        public IActionResult Delete(int id) 
+        {
+            ICategoryRepository repo = new CategoryRepository();
+            repo.Delete(id);
+            return RedirectToAction("Index");
+        }
     }
 }

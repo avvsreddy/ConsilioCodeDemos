@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnowledgeHubPortal.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc4a71a3ca6c612b6bd21e9b7d972612f101ff55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdbce60d6180b331aa92c64bb1940ed90b94b4d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnowledgeHubPortal.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnowledgeHubPortal.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
