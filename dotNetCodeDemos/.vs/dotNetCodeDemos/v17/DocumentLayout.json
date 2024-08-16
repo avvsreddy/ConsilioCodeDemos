@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\MyContactsApp\\Migrations\\20240816092956_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyContactsApp\\Migrations\\20240816092956_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F25E70A8-E612-4673-B622-1F38B54E9206}|MyContactsApp\\MyContactsApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\mycontactsapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E70A8-E612-4673-B622-1F38B54E9206}|MyContactsApp\\MyContactsApp.csproj|solutionrelative:mycontactsapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7BA0515-2EB8-4DD1-BC9C-92C00D52B8C3}|KnowledgeHubPortal.Data\\KnowledgeHubPortal.Data.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BA0515-2EB8-4DD1-BC9C-92C00D52B8C3}|KnowledgeHubPortal.Data\\KnowledgeHubPortal.Data.csproj|solutionrelative:knowledgehubportal.data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A254721-485A-4D8E-BD71-16625EF2C023}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.domain\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A254721-485A-4D8E-BD71-16625EF2C023}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|solutionrelative:knowledgehubportal.domain\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A254721-485A-4D8E-BD71-16625EF2C023}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A254721-485A-4D8E-BD71-16625EF2C023}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|solutionrelative:knowledgehubportal.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7BA0515-2EB8-4DD1-BC9C-92C00D52B8C3}|KnowledgeHubPortal.Data\\KnowledgeHubPortal.Data.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.data\\khpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BA0515-2EB8-4DD1-BC9C-92C00D52B8C3}|KnowledgeHubPortal.Data\\KnowledgeHubPortal.Data.csproj|solutionrelative:knowledgehubportal.data\\khpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F25E70A8-E612-4673-B622-1F38B54E9206}|MyContactsApp\\MyContactsApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\mycontactsapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25E70A8-E612-4673-B622-1F38B54E9206}|MyContactsApp\\MyContactsApp.csproj|solutionrelative:mycontactsapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,127 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Domain\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.Domain\\Repository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Domain\\Repository\\ICategoryRepository.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.Domain\\Repository\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T07:27:19.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Categories\\Edit.cshtml",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Categories\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T06:36:20.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T05:00:25.352Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T04:47:44.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Categories\\Add.cshtml",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Categories\\Add.cshtml",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Categories\\Add.cshtml",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Categories\\Add.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T04:10:31.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-16T03:30:56.922Z",
+              "Title": "20240816092956_Init.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\MyContactsApp\\Migrations\\20240816092956_Init.cs",
+              "RelativeDocumentMoniker": "MyContactsApp\\Migrations\\20240816092956_Init.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\MyContactsApp\\Migrations\\20240816092956_Init.cs",
+              "RelativeToolTip": "MyContactsApp\\Migrations\\20240816092956_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:29:56.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAywD4AAAAsAAAAAAAAAA==",
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\MyContactsApp\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "MyContactsApp\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\MyContactsApp\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "MyContactsApp\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T03:18:16.897Z",
+              "WhenOpened": "2024-08-16T09:28:28.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Data\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.Data\\CategoryRepository.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Data\\CategoryRepository.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.Data\\CategoryRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\MyContactsApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "MyContactsApp\\Models\\Contact.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\MyContactsApp\\Models\\Contact.cs",
+              "RelativeToolTip": "MyContactsApp\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T02:55:13.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "KHPDbContext.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Data\\KHPDbContext.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.Data\\KHPDbContext.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Data\\KHPDbContext.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.Data\\KHPDbContext.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T02:54:55.709Z",
+              "WhenOpened": "2024-08-16T09:23:28.376Z",
               "EditorCaption": ""
             }
           ]

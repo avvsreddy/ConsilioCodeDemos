@@ -1,3 +1,5 @@
+using KnowledgeHubPortal.Data;
+using KnowledgeHubPortal.Domain.Repository;
 using KnowledgeHubPortal.WebApp.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -19,6 +21,11 @@ namespace KnowledgeHubPortal.WebApp
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
+            // AddTransient
+            // AddScoped
+            // AddSingalton
 
             var app = builder.Build();
 

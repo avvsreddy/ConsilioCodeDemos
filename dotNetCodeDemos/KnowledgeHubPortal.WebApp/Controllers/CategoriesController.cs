@@ -8,11 +8,17 @@ namespace KnowledgeHubPortal.WebApp.Controllers
     public class CategoriesController : Controller
     {
         // .../categories/index
+        ICategoryRepository repo = null;
+
+        public CategoriesController(ICategoryRepository repo)
+        {
+            this.repo = repo;
+        }
         public IActionResult Index()
         {
             
             // fetch the categories list from datalayer
-            ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
+            //ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
             List<Category> categories = repo.GetAll();
             
             // send the list of categories to view
@@ -32,7 +38,7 @@ namespace KnowledgeHubPortal.WebApp.Controllers
                 return View("Add");
             }
 
-            ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
+            //ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
             repo.Create(category);
             return RedirectToAction("Index");
 
@@ -42,7 +48,7 @@ namespace KnowledgeHubPortal.WebApp.Controllers
         public IActionResult Edit(int id)
         {
             // get the category object by id
-            ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
+            //ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
             Category categoryToEdit = repo.GetById(id);
             return View(categoryToEdit);
         }
@@ -54,7 +60,7 @@ namespace KnowledgeHubPortal.WebApp.Controllers
             {
                 return View();
             }
-            ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
+            //ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
            
             repo.Update(category);
             return RedirectToAction("Index");
@@ -62,7 +68,7 @@ namespace KnowledgeHubPortal.WebApp.Controllers
 
         public IActionResult Delete(int id) 
         {
-            ICategoryRepository repo = new CategoryRepository();
+            //ICategoryRepository repo = new CategoryRepository();
             repo.Delete(id);
             return RedirectToAction("Index");
         }

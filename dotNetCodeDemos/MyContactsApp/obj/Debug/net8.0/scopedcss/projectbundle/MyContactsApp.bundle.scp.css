@@ -1,0 +1,49 @@
+/* _content/MyContactsApp/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ny3engtpnz] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ny3engtpnz] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ny3engtpnz] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ny3engtpnz], .nav-pills .show > .nav-link[b-ny3engtpnz] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ny3engtpnz] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ny3engtpnz] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ny3engtpnz] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ny3engtpnz] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ny3engtpnz] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
