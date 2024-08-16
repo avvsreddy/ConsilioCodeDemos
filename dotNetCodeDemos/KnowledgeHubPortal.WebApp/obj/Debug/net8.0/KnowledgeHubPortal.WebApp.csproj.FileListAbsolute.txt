@@ -119,6 +119,10 @@ C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\b
 C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\KnowledgeHubPortal.Data.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\KnowledgeHubPortal.Domain.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\KnowledgeHubPortal.Data.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\bin\Debug\net8.0\KnowledgeHubPortal.Domain.pdb
 C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\obj\Debug\net8.0\KnowledgeHubPortal.WebApp.csproj.AssemblyReference.cache
 C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\obj\Debug\net8.0\KnowledgeHubPortal.WebApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\KnowledgeHubPortal.WebApp\obj\Debug\net8.0\KnowledgeHubPortal.WebApp.AssemblyInfoInputs.cache
