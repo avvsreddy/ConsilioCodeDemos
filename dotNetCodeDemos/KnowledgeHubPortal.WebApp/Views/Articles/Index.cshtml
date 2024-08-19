@@ -1,0 +1,62 @@
+﻿@model IEnumerable<KnowledgeHubPortal.Domain.Entities.Article>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Articles</h1>
+
+
+@*<select>
+        @foreach (var cat in ViewBag.Categories as List<KnowledgeHubPortal.Domain.Entities.Category>)
+        {
+            <option value="@cat.CategoryId">@cat.Name</option>
+        }
+    </select>*@
+
+@*@Html.DropDownList("Categories")*@
+
+<form asp-action="Index" asp-controller="Articles">
+    Select Category:
+    <select name="cid"  asp-items="ViewBag.Categories">
+    </select>
+    <input type="submit" name="btnSearch" value="Search" />
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+
+            <th>
+                Submited By
+            </th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    <a href="@item.ArticleUrl" target="_blank">@item.Title.</a>
+                </td>
+                <td>
+                    @item.Description
+                </td>
+                <td>
+                    @item.SubmitedBy
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

@@ -23,6 +23,7 @@ namespace KnowledgeHubPortal.WebApp
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddTransient<IArticlesRepository, ArticlesRepository>();
             // AddTransient
             // AddScoped
             // AddSingalton
