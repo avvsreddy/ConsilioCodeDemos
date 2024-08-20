@@ -8325,6 +8325,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Humanizer >= 2.14.1",
       "KnowledgeHubPortal.Data >= 1.0.0",
       "KnowledgeHubPortal.Domain >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 8.0.8",
@@ -8392,6 +8393,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Humanizer": {
+            "target": "Package",
+            "version": "[2.14.1, )"
+          },
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.8, )"

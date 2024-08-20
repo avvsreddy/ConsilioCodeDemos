@@ -3,16 +3,31 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\articles\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\articles\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.Articles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BA0515-2EB8-4DD1-BC9C-92C00D52B8C3}|KnowledgeHubPortal.Data\\KnowledgeHubPortal.Data.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.data\\articlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BA0515-2EB8-4DD1-BC9C-92C00D52B8C3}|KnowledgeHubPortal.Data\\KnowledgeHubPortal.Data.csproj|solutionrelative:knowledgehubportal.data\\articlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A254721-485A-4D8E-BD71-16625EF2C023}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.domain\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A254721-485A-4D8E-BD71-16625EF2C023}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|solutionrelative:knowledgehubportal.domain\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\articles\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\articles\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +45,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Articles\\Index.cshtml",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Articles\\Index.cshtml",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Articles\\Index.cshtml",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Articles\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T04:30:01.306Z",
+              "DocumentIndex": 2,
+              "Title": "dbo.Articles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.Articles.sql",
+              "ToolTip": "dbo.Articles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
+              "WhenOpened": "2024-08-19T08:42:07.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Program.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBkAAABVAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Articles\\Review.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Articles\\Review.cshtml",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Articles\\Review.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Articles\\Review.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T07:34:03.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticlesRepository.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Data\\ArticlesRepository.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.Data\\ArticlesRepository.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Data\\ArticlesRepository.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.Data\\ArticlesRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T04:22:09.801Z",
+              "WhenOpened": "2024-08-19T07:30:33.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T06:46:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Domain\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.Domain\\Entities\\Article.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Domain\\Entities\\Article.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.Domain\\Entities\\Article.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:40:13.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Submit.cshtml",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Articles\\Submit.cshtml",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Articles\\Submit.cshtml",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Articles\\Submit.cshtml",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Articles\\Submit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T06:17:43.152Z",
               "EditorCaption": ""
             },
             {
@@ -62,7 +126,7 @@
               "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController.cs",
               "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController.cs",
               "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA5wCYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T04:17:53.326Z",
               "EditorCaption": ""

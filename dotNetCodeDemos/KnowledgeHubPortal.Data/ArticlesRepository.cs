@@ -1,5 +1,6 @@
 ﻿using KnowledgeHubPortal.Domain.Entities;
 using KnowledgeHubPortal.Domain.Repository;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,9 +36,9 @@ namespace KnowledgeHubPortal.Data
         public List<Article> GetArticlesForReview(int cid = 0)
         {
             if (cid == 0)
-                return db.Articles.Where(a => !a.IsApproved).ToList();
+                return db.Articles.Include("Category").Where(a => !a.IsApproved).ToList();
             else
-                return db.Articles.Where(a => !a.IsApproved && a.CategoryId == cid).ToList();
+                return db.Articles.Include("Category").Where(a => !a.IsApproved && a.CategoryId == cid).ToList();
         }
 
         public void Reject(List<int> ids)

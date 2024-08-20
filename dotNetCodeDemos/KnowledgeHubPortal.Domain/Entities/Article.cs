@@ -23,10 +23,10 @@ namespace KnowledgeHubPortal.Domain.Entities
         public string ArticleUrl { get; set; }
         //[ForeignKey("Category")]
         public int CategoryId  { get; set; }
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
         public bool IsApproved { get; set; }
         //[Required]
-        public string SubmitedBy { get; set; }
+        public string? SubmitedBy { get; set; }
         public DateTime DateSubmited { get; set; }
     }
 }

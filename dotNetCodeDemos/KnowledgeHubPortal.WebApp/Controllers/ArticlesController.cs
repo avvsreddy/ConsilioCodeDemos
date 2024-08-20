@@ -1,4 +1,6 @@
-﻿using KnowledgeHubPortal.Domain.Repository;
+﻿using Humanizer;
+using KnowledgeHubPortal.Domain.Entities;
+using KnowledgeHubPortal.Domain.Repository;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -34,6 +36,76 @@ namespace KnowledgeHubPortal.WebApp.Controllers
 
 
             return View(articlesToBrowse);
+        }
+
+        [HttpGet]
+        public IActionResult Submit()
+        {
+            var categories = from cat in cRepo.GetAll()
+                             select new SelectListItem
+                             {
+                                 Text = cat.Name,
+                                 Value = cat.CategoryId.ToString()
+                             };
+
+            ViewBag.Categories = categories;
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Submit(Article article)
+        {
+            // validate
+            if (!ModelState.IsValid) 
+            {
+                return View();
+            }
+            
+            // save
+
+            article.DateSubmited = DateTime.Now;
+            article.IsApproved=false;
+            if (User.Identity.IsAuthenticated)
+                article.SubmitedBy = User.Identity.Name;
+            else
+                article.SubmitedBy = "Unknown";
+
+            aRepo.Submit(article);
+
+            TempData["Message"] = $"Artile {article.Title} submited successfully for admin review";
+
+            return RedirectToAction("Index");
+        }
+        public IActionResult Review(int cid=0)
+        {
+            // fetch all new  articles for review
+            var articlesToReview = aRepo.GetArticlesForReview(cid);
+            // fetch all categories
+            var categories = from cat in cRepo.GetAll()
+                             select new SelectListItem
+                             {
+                                 Text = cat.Name,
+                                 Value = cat.CategoryId.ToString()
+                             };
+
+            ViewBag.Categories = categories;
+
+            return View(articlesToReview);
+        }
+
+        public IActionResult Approve(List<int> articleIds)
+        {
+           
+            aRepo.Approve(articleIds);
+            TempData["Message"] = $"{articleIds.Count} Article/s Approved Successfully";
+            return RedirectToAction("Review");
+        }
+
+        public IActionResult Reject(List<int> articleIds)
+        {
+            aRepo.Reject(articleIds);
+            TempData["Message"] = $"{articleIds.Count} Article/s Rejected Successfully";
+            return RedirectToAction("Review");
         }
     }
 }
