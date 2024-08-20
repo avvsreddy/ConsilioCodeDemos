@@ -1,6 +1,7 @@
 ﻿using Humanizer;
 using KnowledgeHubPortal.Domain.Entities;
 using KnowledgeHubPortal.Domain.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -39,6 +40,7 @@ namespace KnowledgeHubPortal.WebApp.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public IActionResult Submit()
         {
             var categories = from cat in cRepo.GetAll()
@@ -53,6 +55,7 @@ namespace KnowledgeHubPortal.WebApp.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public IActionResult Submit(Article article)
         {
             // validate
@@ -76,6 +79,8 @@ namespace KnowledgeHubPortal.WebApp.Controllers
 
             return RedirectToAction("Index");
         }
+
+        [Authorize(Roles ="admin")]
         public IActionResult Review(int cid=0)
         {
             // fetch all new  articles for review
@@ -88,19 +93,20 @@ namespace KnowledgeHubPortal.WebApp.Controllers
                                  Value = cat.CategoryId.ToString()
                              };
 
+            
+
             ViewBag.Categories = categories;
 
             return View(articlesToReview);
         }
-
+        [Authorize(Roles = "admin")]
         public IActionResult Approve(List<int> articleIds)
         {
-           
             aRepo.Approve(articleIds);
             TempData["Message"] = $"{articleIds.Count} Article/s Approved Successfully";
             return RedirectToAction("Review");
         }
-
+        [Authorize(Roles = "admin")]
         public IActionResult Reject(List<int> articleIds)
         {
             aRepo.Reject(articleIds);

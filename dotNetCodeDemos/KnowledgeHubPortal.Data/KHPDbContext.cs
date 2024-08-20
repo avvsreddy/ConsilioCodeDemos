@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace KnowledgeHubPortal.Data
 {
-    internal class KHPDbContext : DbContext
+    public class KHPDbContext : DbContext
     {
         // map db
         public KHPDbContext()

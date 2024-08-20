@@ -1,2 +1,13 @@
-﻿<h1>Welcome to my hello view</h1>
+﻿@model List<Microsoft.AspNetCore.Identity.IdentityUser>
+<h1>Welcome to my hello view</h1>
 <hr />
+
+@Model.Count
+
+<ol>
+    @foreach (var item in Model)
+    {
+        <li>@item.NormalizedUserName</li>
+    }
+
+</ol>

@@ -1,0 +1,14 @@
+﻿@model List<Microsoft.AspNetCore.Identity.IdentityUser>
+<h1>Registered Users</h1>
+<hr />
+
+<table class="table">
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.NormalizedUserName</td>
+           
+        </tr>
+    }
+
+</table>
