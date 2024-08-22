@@ -3,34 +3,16 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\controllers\\myeventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\controllers\\myeventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\productscatalogservice.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|solutionrelative:productscatalogservice.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\views\\myevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\views\\myevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\productscatalogservice.api\\model\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|solutionrelative:productscatalogservice.api\\model\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/EventManagementWebAppDB/True/SqlTable/dbo.Registrations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\views\\registerevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\views\\registerevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\controllers\\registereventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\controllers\\registereventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/EventManagementWebAppDB/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\productscatalogservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|solutionrelative:productscatalogservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,100 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Models\\Registration.cs",
-              "RelativeDocumentMoniker": "EventManagementWebApp\\Models\\Registration.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Models\\Registration.cs",
-              "RelativeToolTip": "EventManagementWebApp\\Models\\Registration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Model\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsCatalogService.API\\Model\\Entities\\Product.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Model\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductsCatalogService.API\\Model\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:04:22.988Z",
+              "WhenOpened": "2024-08-22T09:21:20.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Views\\MyEvents\\Index.cshtml",
-              "RelativeDocumentMoniker": "EventManagementWebApp\\Views\\MyEvents\\Index.cshtml",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Views\\MyEvents\\Index.cshtml",
-              "RelativeToolTip": "EventManagementWebApp\\Views\\MyEvents\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T10:54:02.973Z",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsCatalogService.API\\Program.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Program.cs",
+              "RelativeToolTip": "ProductsCatalogService.API\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:29:20.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyEventsController.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Controllers\\MyEventsController.cs",
-              "RelativeDocumentMoniker": "EventManagementWebApp\\Controllers\\MyEventsController.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Controllers\\MyEventsController.cs",
-              "RelativeToolTip": "EventManagementWebApp\\Controllers\\MyEventsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwCgAAAAJAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsCatalogService.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsCatalogService.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T10:46:54.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dbo.Events [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/EventManagementWebAppDB/True/SqlTable/dbo.Events.sql",
-              "ToolTip": "dbo.Events [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
-              "WhenOpened": "2024-08-20T10:34:58.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.Registrations [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/EventManagementWebAppDB/True/SqlTable/dbo.Registrations.sql",
-              "ToolTip": "dbo.Registrations [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
-              "WhenOpened": "2024-08-20T10:33:58.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "EventManagementWebApp\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Program.cs",
-              "RelativeToolTip": "EventManagementWebApp\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T10:31:48.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Views\\RegisterEvents\\Index.cshtml",
-              "RelativeDocumentMoniker": "EventManagementWebApp\\Views\\RegisterEvents\\Index.cshtml",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Views\\RegisterEvents\\Index.cshtml",
-              "RelativeToolTip": "EventManagementWebApp\\Views\\RegisterEvents\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T07:24:30.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterEventsController.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Controllers\\RegisterEventsController.cs",
-              "RelativeDocumentMoniker": "EventManagementWebApp\\Controllers\\RegisterEventsController.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Controllers\\RegisterEventsController.cs",
-              "RelativeToolTip": "EventManagementWebApp\\Controllers\\RegisterEventsController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T07:15:01.35Z",
+              "WhenOpened": "2024-08-22T07:00:13.303Z",
               "EditorCaption": ""
             }
           ]
