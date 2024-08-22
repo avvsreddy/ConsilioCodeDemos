@@ -3,41 +3,34 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\controllers\\myeventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\controllers\\myeventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\views\\myevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\views\\myevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/EventManagementWebAppDB/True/SqlTable/dbo.Registrations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\views\\registerevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\views\\registerevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\controllers\\registereventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\controllers\\registereventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/EventManagementWebAppDB/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\eventmanagementwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E4EB8F-7C86-4A64-8476-0AFE4CD5E97B}|EventManagementWebApp\\EventManagementWebApp.csproj|solutionrelative:eventmanagementwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,131 +40,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T05:28:33.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T05:22:14.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T05:14:40.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T05:08:04.502Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwB4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "EventManagementWebApp\\Models\\Registration.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Models\\Registration.cs",
+              "RelativeToolTip": "EventManagementWebApp\\Models\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T04:58:37.767Z",
+              "WhenOpened": "2024-08-20T11:04:22.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Views\\MyEvents\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventManagementWebApp\\Views\\MyEvents\\Index.cshtml",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Views\\MyEvents\\Index.cshtml",
+              "RelativeToolTip": "EventManagementWebApp\\Views\\MyEvents\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T10:54:02.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyEventsController.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Controllers\\MyEventsController.cs",
+              "RelativeDocumentMoniker": "EventManagementWebApp\\Controllers\\MyEventsController.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Controllers\\MyEventsController.cs",
+              "RelativeToolTip": "EventManagementWebApp\\Controllers\\MyEventsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:46:54.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Program.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T04:24:51.011Z",
+              "Title": "dbo.Events [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/EventManagementWebAppDB/True/SqlTable/dbo.Events.sql",
+              "ToolTip": "dbo.Events [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
+              "WhenOpened": "2024-08-20T10:34:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Registrations [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/EventManagementWebAppDB/True/SqlTable/dbo.Registrations.sql",
+              "ToolTip": "dbo.Registrations [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
+              "WhenOpened": "2024-08-20T10:33:58.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "dbo.AspNetUserRoles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.AspNetUserRoles.sql",
-              "ToolTip": "dbo.AspNetUserRoles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
-              "WhenOpened": "2024-08-20T04:18:12.278Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "EventManagementWebApp\\Program.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Program.cs",
+              "RelativeToolTip": "EventManagementWebApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:31:48.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dbo.AspNetRoles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.AspNetRoles.sql",
-              "ToolTip": "dbo.AspNetRoles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
-              "WhenOpened": "2024-08-20T04:16:09.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbo.AspNetUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/KHPDb2024/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
-              "WhenOpened": "2024-08-20T04:13:38.985Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Views\\RegisterEvents\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventManagementWebApp\\Views\\RegisterEvents\\Index.cshtml",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Views\\RegisterEvents\\Index.cshtml",
+              "RelativeToolTip": "EventManagementWebApp\\Views\\RegisterEvents\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T07:24:30.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ArticlesController.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController.cs",
-              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController.cs",
-              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\ArticlesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Title": "RegisterEventsController.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Controllers\\RegisterEventsController.cs",
+              "RelativeDocumentMoniker": "EventManagementWebApp\\Controllers\\RegisterEventsController.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\EventManagementWebApp\\Controllers\\RegisterEventsController.cs",
+              "RelativeToolTip": "EventManagementWebApp\\Controllers\\RegisterEventsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:55:08.065Z",
+              "WhenOpened": "2024-08-20T07:15:01.35Z",
               "EditorCaption": ""
             }
           ]
