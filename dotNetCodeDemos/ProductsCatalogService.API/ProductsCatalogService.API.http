@@ -1,6 +1,11 @@
-@ProductsCatalogService.API_HostAddress = http://localhost:5145
 
-GET {{ProductsCatalogService.API_HostAddress}}/weatherforecast/
-Accept: application/json
+@url=https://localhost:44307
+
+GET https://localhost:44307/api/Products
+Accept:application/json
+
 
 ###
+
+GET {{url}}/api/products?$select=name
+Accept:application/json

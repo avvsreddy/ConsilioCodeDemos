@@ -1,0 +1,15 @@
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\bin\Debug\net8.0\ProductsCatalogAPI.ClientApp.exe
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\bin\Debug\net8.0\ProductsCatalogAPI.ClientApp.deps.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\bin\Debug\net8.0\ProductsCatalogAPI.ClientApp.runtimeconfig.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\bin\Debug\net8.0\ProductsCatalogAPI.ClientApp.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\bin\Debug\net8.0\ProductsCatalogAPI.ClientApp.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\ProductsCatalogAPI.ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\ProductsCatalogAPI.ClientApp.AssemblyInfoInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\ProductsCatalogAPI.ClientApp.AssemblyInfo.cs
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\ProductsCatalogAPI.ClientApp.csproj.CoreCompileInputs.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\ProductsCatalogAPI.ClientApp.sourcelink.json
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\ProductsCatalogAPI.ClientApp.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\refint\ProductsCatalogAPI.ClientApp.dll
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\ProductsCatalogAPI.ClientApp.pdb
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\ProductsCatalogAPI.ClientApp.genruntimeconfig.cache
+C:\Venkat\ConsilioCodeDemos\coderepo\dotNetCodeDemos\ProductsCatalogAPI.ClientApp\obj\Debug\net8.0\ref\ProductsCatalogAPI.ClientApp.dll

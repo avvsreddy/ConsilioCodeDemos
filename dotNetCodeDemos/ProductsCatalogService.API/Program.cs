@@ -1,4 +1,5 @@
 
+using Microsoft.AspNet.OData.Extensions;
 using Microsoft.EntityFrameworkCore;
 using ProductsCatalogService.API.Model.Data;
 
@@ -19,10 +20,12 @@ namespace ProductsCatalogService.API
 
 
 
-            builder.Services.AddControllers().AddXmlSerializerFormatters();
+            builder.Services.AddControllers().AddXmlSerializerFormatters().AddNewtonsoftJson();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddOData();
 
             var app = builder.Build();
 
@@ -32,13 +35,21 @@ namespace ProductsCatalogService.API
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
             app.UseHttpsRedirection();
-
+            app.UseRouting();
             app.UseAuthorization();
 
+            app.UseEndpoints(endpoints => 
+            {
+                endpoints.EnableDependencyInjection();
+                endpoints.Select().OrderBy().Filter().MaxTop(100).SkipToken().Count();
+               endpoints.MapControllers();
+            });
 
-            app.MapControllers();
+          
+
+         
+            //app.MapControllers();
 
             app.Run();
         }

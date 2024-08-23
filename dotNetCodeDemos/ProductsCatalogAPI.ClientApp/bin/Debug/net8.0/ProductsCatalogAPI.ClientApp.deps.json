@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductsCatalogAPI.ClientApp/1.0.0": {
+        "runtime": {
+          "ProductsCatalogAPI.ClientApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductsCatalogAPI.ClientApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
