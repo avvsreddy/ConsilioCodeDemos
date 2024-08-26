@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNet.OData;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Formatters;
@@ -134,6 +135,7 @@ namespace ProductsCatalogService.API.Controllers
         [ProducesResponseType<Product>(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         // .../api/products/1
+        [Authorize]
         public async Task<IActionResult> DeleteAsync(int id)
         {
             var product = await db.Products.FindAsync(id);
