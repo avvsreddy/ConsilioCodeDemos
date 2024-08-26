@@ -17,13 +17,24 @@ namespace KnowledgeHubPortal.WebApp.Controllers
             this.repo = repo;
         }
         //[AllowAnonymous]
-        public IActionResult Index()
-        {
+        //public IActionResult Index()
+        //{
             
+        //    // fetch the categories list from datalayer
+        //    //ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
+        //    List<Category> categories = repo.GetAll();
+            
+        //    // send the list of categories to view
+        //    return View(categories);
+        //}
+
+        public async Task<IActionResult> IndexAsync()
+        {
+
             // fetch the categories list from datalayer
             //ICategoryRepository repo = new CategoryRepository(); // BAD - DIP
-            List<Category> categories = repo.GetAll();
-            
+            List<Category> categories = await repo.GetAllAsync();
+
             // send the list of categories to view
             return View(categories);
         }

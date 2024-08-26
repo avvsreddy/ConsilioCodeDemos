@@ -1,5 +1,6 @@
 ﻿using KnowledgeHubPortal.Domain.Entities;
 using KnowledgeHubPortal.Domain.Repository;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,6 +28,11 @@ namespace KnowledgeHubPortal.Data
         public List<Category> GetAll()
         {
             return db.Categories.ToList();
+        }
+
+        public async Task<List<Category>> GetAllAsync()
+        {
+            return await db.Categories.ToListAsync();
         }
 
         public Category GetById(int id)

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Formatters;
+using Microsoft.EntityFrameworkCore;
 using ProductsCatalogService.API.Model.Data;
 using ProductsCatalogService.API.Model.Entities;
 
@@ -20,32 +21,40 @@ namespace ProductsCatalogService.API.Controllers
 
 
         // Design the endpoint uri
-        // GET.../api/products
 
 
+
+
+        // GET.../api/products/odata
 
         [HttpGet]
         [EnableQuery]
+        [Route("odata")]
         public IQueryable<Product> GetAll()
         {
             return db.Products.AsQueryable();
         }
+
+
         #region other end points
 
-        //[HttpGet]
-
-        //public List<Product> GetAll()
-        //{
-        //    return db.Products.ToList();
-        //}
+        // GET...api/products/async
+        [HttpGet]
+        [Route("async")]
+        public async Task<List<Product>> GetAllAsync()
+        {
+            return await db.Products.ToListAsync();
+            //dsddgfds
+            //sdfdsfdsf
+        }
 
 
         //// GET .../api/products/123
         [HttpGet]
         [Route("{id:int}")]
-        public IActionResult Get(int id)
+        public async Task<IActionResult> GetAsync(int id)
         {
-            var product = db.Products.Find(id);
+            var product = await db.Products.FindAsync(id);
             if (product == null)
             {
                 // return 404 - not found
@@ -107,7 +116,7 @@ namespace ProductsCatalogService.API.Controllers
         [ProducesResponseType<Product>(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         // .../api/products
-        public IActionResult Add(Product product)
+        public async Task<IActionResult> AddAsync(Product product)
         {
             // validate
             if (!ModelState.IsValid) 
@@ -115,7 +124,7 @@ namespace ProductsCatalogService.API.Controllers
                 return BadRequest(ModelState);
             }
             db.Products.Add(product);
-            db.SaveChanges();
+            await db.SaveChangesAsync();
             // return 201 with location and data
             //return Ok();
             return Created($"/api/products/{product.ProductId}",product);
@@ -125,15 +134,15 @@ namespace ProductsCatalogService.API.Controllers
         [ProducesResponseType<Product>(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         // .../api/products/1
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> DeleteAsync(int id)
         {
-            var product = db.Products.Find(id);
+            var product = await db.Products.FindAsync(id);
             if (product == null) 
             {
                 return NotFound();
             }
             db.Products.Remove(product);
-            db.SaveChanges();
+           await db.SaveChangesAsync();
             return Ok();
         }
         [HttpPut]
@@ -142,10 +151,10 @@ namespace ProductsCatalogService.API.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status200OK)]
         // .../api/products/1
-        public IActionResult Put([FromQuery] int id, [FromBody] Product product) 
+        public async Task<IActionResult> PutAsync([FromQuery] int id, [FromBody] Product product) 
         {
             // find the product
-            var p = db.Products.Find(id);
+            var p = await db.Products.FindAsync(id);
             if (p == null)
             {
                 return NotFound();
@@ -167,7 +176,7 @@ namespace ProductsCatalogService.API.Controllers
 
             //db.Products.Update(product);
             //db.Entry(product).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-            db.SaveChanges();
+            await db.SaveChangesAsync();
             return Ok();
 
         }

@@ -13,6 +13,7 @@ namespace KnowledgeHubPortal.Domain.Repository
         void Update(Category category); 
 
         List<Category> GetAll();
+        Task<List<Category>> GetAllAsync();
         Category GetById(int id);
 
         void Delete(int id);

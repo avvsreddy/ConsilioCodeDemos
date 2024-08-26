@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A000B0C3-6D54-4ECC-9844-95F9A511D76F}|KnowledgeHubPortal.WebApp\\KnowledgeHubPortal.WebApp.csproj|solutionrelative:knowledgehubportal.webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BA0515-2EB8-4DD1-BC9C-92C00D52B8C3}|KnowledgeHubPortal.Data\\KnowledgeHubPortal.Data.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BA0515-2EB8-4DD1-BC9C-92C00D52B8C3}|KnowledgeHubPortal.Data\\KnowledgeHubPortal.Data.csproj|solutionrelative:knowledgehubportal.data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A254721-485A-4D8E-BD71-16625EF2C023}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\knowledgehubportal.domain\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A254721-485A-4D8E-BD71-16625EF2C023}|KnowledgeHubPortal.Domain\\KnowledgeHubPortal.Domain.csproj|solutionrelative:knowledgehubportal.domain\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\productscatalogservice.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|solutionrelative:productscatalogservice.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6CEBC15-EE7A-4B62-AF29-ED66E287DEB1}|ProductsCatalogAPI.ClientApp\\ProductsCatalogAPI.ClientApp.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\productscatalogapi.clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6CEBC15-EE7A-4B62-AF29-ED66E287DEB1}|ProductsCatalogAPI.ClientApp\\ProductsCatalogAPI.ClientApp.csproj|solutionrelative:productscatalogapi.clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\productscatalogservice.api\\model\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|solutionrelative:productscatalogservice.api\\model\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\productscatalogservice.api\\productscatalogservice.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|solutionrelative:productscatalogservice.api\\productscatalogservice.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|c:\\venkat\\consiliocodedemos\\coderepo\\dotnetcodedemos\\productscatalogservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9518B742-38AF-4711-9CB8-70EE7F6D754F}|ProductsCatalogService.API\\ProductsCatalogService.API.csproj|solutionrelative:productscatalogservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Domain\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.Domain\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Domain\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.Domain\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:51:47.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Data\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.Data\\CategoryRepository.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.Data\\CategoryRepository.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.Data\\CategoryRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:50:20.731Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -42,63 +64,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogAPI.ClientApp\\Program.cs",
-              "RelativeDocumentMoniker": "ProductsCatalogAPI.ClientApp\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogAPI.ClientApp\\Program.cs",
-              "RelativeToolTip": "ProductsCatalogAPI.ClientApp\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBUAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "KnowledgeHubPortal.WebApp\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T05:29:29.448Z"
+              "WhenOpened": "2024-08-26T03:49:20.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductsCatalogService.API.http",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\ProductsCatalogService.API.http",
-              "RelativeDocumentMoniker": "ProductsCatalogService.API\\ProductsCatalogService.API.http",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\ProductsCatalogService.API.http",
-              "RelativeToolTip": "ProductsCatalogService.API\\ProductsCatalogService.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-23T04:28:20.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Program.cs",
-              "RelativeDocumentMoniker": "ProductsCatalogService.API\\Program.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Program.cs",
-              "RelativeToolTip": "ProductsCatalogService.API\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAABYAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T03:43:00.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Model\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ProductsCatalogService.API\\Model\\Entities\\Product.cs",
-              "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Model\\Entities\\Product.cs",
-              "RelativeToolTip": "ProductsCatalogService.API\\Model\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T03:03:58.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProductsCatalogService.API\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Venkat\\ConsilioCodeDemos\\coderepo\\dotNetCodeDemos\\ProductsCatalogService.API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "ProductsCatalogService.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:27:00.653Z",
+              "WhenOpened": "2024-08-26T02:58:01.943Z",
               "EditorCaption": ""
             }
           ]

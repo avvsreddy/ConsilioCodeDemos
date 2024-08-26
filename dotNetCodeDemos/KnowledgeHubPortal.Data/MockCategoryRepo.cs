@@ -30,6 +30,11 @@ namespace KnowledgeHubPortal.Data
             };
         }
 
+        public Task<List<Category>> GetAllAsync()
+        {
+            throw new NotImplementedException();
+        }
+
         public Category GetById(int id)
         {
             throw new NotImplementedException();
