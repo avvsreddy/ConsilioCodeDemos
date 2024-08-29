@@ -1,0 +1,43 @@
+<div class="container">
+
+<h1>To-Do-List</h1>
+
+<hr>
+<input type="text" [(ngModel)]="title" placeholder="What do you want to do?">&nbsp;
+<button class="btn btn-primary btn-sm"(click)="addItem()" [disabled]="title.length==0">Add</button>
+
+View: Completed <input type="radio" value="completed" name="filter" [(ngModel)]="searchTerm"> 
+| Pending <input type="radio" name="filter" value="pending" [(ngModel)]="searchTerm"> 
+| All <input type="radio" name="filter" value="all" [(ngModel)]="searchTerm">
+<hr>
+
+
+
+@if(todoList.length == 0){
+  <h5>No Todo Items</h5>
+}
+@else {
+<table class="table table-striped ">
+  <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Title</th>
+      <th>Is Completed</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+    <tbody>
+      <!-- @for (item of todoList; track $index | filterBy:['isCompleted']:[true]) 
+      { -->
+        <tr *ngFor="let item of todoList ; let i = index">
+          <td>{{item.id}}</td>
+          <td>{{item.title}}</td>
+          <td><input type="checkbox" [(ngModel)]="item.isCompleted">
+          @if(item.isCompleted){&nbsp;&nbsp;<small>Done</small>}</td>
+          <td><button class="btn btn-danger btn-sm" [disabled]="item.isCompleted"  (click)="removeItem(i)">Remove</button></td>
+        </tr>
+      <!-- } -->
+    </tbody>
+ </table>
+}
+</div>
