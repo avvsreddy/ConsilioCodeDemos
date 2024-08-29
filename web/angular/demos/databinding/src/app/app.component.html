@@ -1,0 +1,27 @@
+<h1>Data Binding in Angular</h1>
+<hr>
+
+<h2>Welcome back {{ userName }}</h2>
+
+ <img [src]='image' alt="angular favicon">
+
+ <img src='{{image}}' alt="angular favicon"><br>
+
+ <button disabled="{{!isActive}}">Click Me!</button>
+
+ <button [disabled]="!isActive">Click Me!</button>
+
+
+ <h1>Event Binding</h1>
+ <button (click)="Test()">Change Person Name</button>
+
+ <h1>Two Way Databindig</h1>
+
+
+ <input type="text"  [(ngModel)]="userName"  name="personName" placeholder="Enter Person Name">
+
+ <!-- <script>
+  function Test(){
+    alert('button clicked - JS');
+  }
+ </script> -->

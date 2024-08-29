@@ -1,0 +1,34 @@
+<!-- <h1>List of Product Names</h1>
+<hr>
+
+
+<ol>
+  <li *ngFor="let p of products">  
+    {{p}} 
+  </li>
+ </ol>
+ <hr>
+ <table>
+  <tr *ngFor="let p of products; let i = even">
+    <td *ngIf="i == true">
+        {{i}} - {{p}}
+    </td>
+  </tr>
+ </table>
+ <hr>
+ <table>
+@for (p of products; track $index;let e = $even) {
+  <tr>
+    @if (e) 
+    {
+    <td>
+        {{e}}  {{$index}} - {{p}}
+    </td>
+    }
+  </tr>
+}
+ </table> -->
+
+
+
+ <app-products-list></app-products-list>
